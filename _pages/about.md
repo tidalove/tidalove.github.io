@@ -4,11 +4,4 @@ title: about
 permalink: /about/
 ---
 
-I'm Kai, a second-year student at MIT pursuing a B.S. in physics. I'm interested in sustainability, electrical engineering, and math; in my free time, I make art and take care of my turtles.
-
-## things I'm doing
-
-- studying machine learning
-- competing in [MIT Battlecode](https://battlecode.org/)
-- reading Three Body Problem
-- working on my personal website!
+I'm Kai, an undergrad at MIT pursuing a B.S. in physics. I'm also interested in sustainability, electrical engineering, and math; in my free time, I make art and take care of my turtles. Feel free to take a look at my [resume](https://tidalove.github.io/files/VAN_BRUNT_Kai_2023.pdf) or read about my [projects](https://tidalove.github.io/archive/).
