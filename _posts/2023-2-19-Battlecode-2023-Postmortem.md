@@ -1,7 +1,8 @@
-
-# Battlecode 2023 Postmortem
-
 I did [Battlecode](https://battlecode.org/) this IAP (Independent Activities Period, essentially MIT's winter term) in a team with two other people. I was a total beginner to Java and algorithms at the beginning of the competition, having only coded before for research purposes, but I read a blog post about Battlecode and thought it seemed fun. So I signed up with [Reece Yang](https://reeceyang.xyz) and [Jade Chongsathapornpong](https://certaingemstone.github.io), and we agreed to participate casually. Our team, *no thoughts head empty*, ultimately won second place in the Newbie Tournament, a subset of the competition for first-time competitors at MIT.
+
+I enjoyed Battlecode a lot; through the competition, I gained a lot of confidence in my ability to contribute to a CS project that was not research-related, and also felt the value of working in a team in a way that had not been apparent in any other experience at MIT thus far. Our team largely used a "divide and conquer" strategy; the features each of us worked on had minimal overlap, despite being highly dependent on each other. But we had a cohesive view of how our bot would play; we gave and received feedback from each other; we reviewed changes to our code and to our bot strategy together. It was a great experience, and I'd like to do Battlecode again in the future, when we have existing code infrastructure and knowledge to pull on and can immediately get started on building for the competition.
+
+This post details the main points of our strategy in how we used different types of bots. For overall takeaways, skip to the bottom.
 
 ## Carriers
 
