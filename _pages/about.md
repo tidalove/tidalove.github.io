@@ -23,6 +23,7 @@ Here are the classes I've taken at MIT, in chronological order:
 - **18.353** Nonlinear Dynamics: Chaos
 - **21G.195** Modern Chinese Fiction and Cinema
 - **21G.113** Streamlined Chinese V
+- **8.S998** Physics Mentorship and Pedagogy
 
 ### Spring 2022
 - **8.04** Quantum Physics I
