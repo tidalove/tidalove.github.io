@@ -8,10 +8,15 @@ I'm Kai, an undergrad at MIT pursuing a B.S. in physics and math. I'm also inter
 
 Here are the classes I've taken at MIT, in chronological order:
 
+### Fall 2023
+- **18.112** Complex Analysis
+- **8.05** Quantum Mechanics II
+- **8.09** Classical Mechanics III
+- **22.04** Social Problems of Nuclear Energy
+- **22.UAR** Climate and Sustainability Undergraduate Advanced Research
+
 ### Spring 2023
 - **18.102** Functional Analysis
-- **8.051** Quantum Physics II
-- **18.337** Parallel Computing and Scientific Machine Learning
 - **22.S095** So, you want to solve climate change?
 - **9.00** Intro to Psychology
 
